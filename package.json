@@ -1,0 +1,22 @@
+{
+  "name": "freelancer-2015",
+  "version": "1.0.0",
+  "description": "Freelancer - фриланс по группам Вконтакте",
+  "main": "Freelancer.exe",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baklai/freelancer-2015.git"
+  },
+  "keywords": [
+    "Delphi"
+  ],
+  "author": "Dmitrii Baklai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/baklai/freelancer-2015/issues"
+  },
+  "homepage": "https://github.com/baklai/freelancer-2015#readme"
+}
